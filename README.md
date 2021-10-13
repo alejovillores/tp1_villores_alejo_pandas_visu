@@ -27,4 +27,16 @@ Ayudante asignado: Gianmarco Cafferata
 
 ## Segunda Parte - Visualización
 
-Todo: Subir readme de segunda parte
+**Consulta 1:**  <***11***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_11.ipynb) 
+
+**Consulta 2:**  <***19***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_19.ipynb) 
+
+**Consulta 3:**  <***22***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_22.ipynb) 
+
+**Consulta 4:**  <***35***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_35.ipynb) 
+
+**Consulta 5:**  <***44***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_44.ipynb) 
+
+**Consulta 6:**  <***48***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_48.ipynb) 
+
+**Consulta 7:**  <***58***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_58.ipynb) 
