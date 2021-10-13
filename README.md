@@ -40,4 +40,4 @@ Ayudante asignado: Gianmarco Cafferata
 **Visualización 6:** [Denge](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/) <***HeatMap***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_visualizaciones/heat_map_dengue.ipynb)
 ![image](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/heat_map_pr.png)
 **Consulta 7:**  <***Messi***>  [Notebook](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/pandas_consultas/ejercicio_58.ipynb)
-![image](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/heat_map_pr.png)
+![image](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/goles_x_partido_messi.png)
