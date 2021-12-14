@@ -42,3 +42,6 @@ Ayudante asignado: Gianmarco Cafferata
 **Consulta 7:**  <***Messi***>  En la siguiente se muestra el rendimiento del jugador Lionel Messi durante su etapa en la Seleccion Argentina.Este rendimiento es equivalente a los goles por partido durante ese año.
 
 ![image](https://github.com/alejovillores/tp1_villores_alejo_pandas_visu/blob/main/goles_x_partido_messi.png)
+
+
+Nota: 21.5/25
